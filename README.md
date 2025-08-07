@@ -46,6 +46,7 @@ I'm a **Full Stack Developer**, **Minecraft Plugin Developer**, **Discord Bot De
 - 🟢 [Tiers CubeNetwork](https://tiers.cubenetwork.fun)
 - 🔵 [Exenos](https://www.exenos.fun)
 - 🟣 [CubeNetwork](https://www.cubenetwork.fun)
+- 🔥 [Protfolio](https://dc.exenos.fun)
 - 💡 *More projects coming soon...*
 
 ---
