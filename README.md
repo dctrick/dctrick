@@ -43,10 +43,9 @@ I'm a **Full Stack Developer**, **Minecraft Plugin Developer**, **Discord Bot De
 ---
 
 ## 🌐 My Projects:
-- 🟢 [Tiers CubeNetwork](https://tiers.cubenetwork.fun)
-- 🔵 [Exenos](https://www.exenos.fun)
-- 🟣 [CubeNetwork](https://www.cubenetwork.fun)
-- 🔥 [Protfolio](https://dc.exenos.fun)
+- 🟢 [CubeNetwork](https://cubenetwork.gg)
+- 🔵 [Exenos](https://www.exenos.in)
+- 🔥 [Protfolio](https://dc.exenos.in)
 - 💡 *More projects coming soon...*
 
 ---
@@ -62,8 +61,8 @@ I'm a **Full Stack Developer**, **Minecraft Plugin Developer**, **Discord Bot De
 
 ## 📫 Connect with Me:
 - 💬 Discord: `dc_trick`
-- 📧 Email: `dctrick12@gmail.com`
-- 🌐 Website/Portfolio: `dc.exenos.fun`
+- 📧 Email: `dev.dctrick@gmail.com`
+- 🌐 Website/Portfolio: `dc.exenos.in`
 
 ---
 
