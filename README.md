@@ -52,7 +52,9 @@ I'm a **Full Stack Developer**, **Minecraft Plugin Developer**, **Discord Bot De
 
 ## GITHUB
 
-https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg alt="Snake animation" />
+  </div>
 
 ---
 
