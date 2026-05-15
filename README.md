@@ -50,12 +50,9 @@ I'm a **Full Stack Developer**, **Minecraft Plugin Developer**, **Discord Bot De
 
 ---
 
-## 📊 GitHub Stats:
+## GITHUB
 
-![DC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dctrick&show_icons=true&theme=tokyonight&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dctrick&theme=tokyonight)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dctrick&theme=tokyo-night)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dctrick&layout=compact&theme=tokyonight&count_private=true)
+https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg
 
 ---
 
