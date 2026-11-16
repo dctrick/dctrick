@@ -9,7 +9,6 @@ export default function Home() {
     <header className="hero">
       <div className="hero-inner">
         <h1>{profile.name}</h1>
-        <p className="muted">{profile.role}</p>
         <nav>
           <a href="#about">About</a>
           <a href="#experience">Experience</a>
