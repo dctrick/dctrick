@@ -28,7 +28,8 @@ Java · TypeScript · React · Next.js · PostgreSQL · MySQL
 
 - Email: [dev.dctrick@gmail.com](mailto:dev.dctrick@gmail.com)
 - Discord: `dc_trick`
-- [![Hire me on BriefDesk](https://briefdesk-alpha.vercel.app/api/badge/dctrick)](https://briefdesk-alpha.vercel.app/u/dctrick)
+
+[![Hire me on BriefDesk](https://briefdesk-alpha.vercel.app/api/badge/dctrick)](https://briefdesk-alpha.vercel.app/u/dctrick)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
