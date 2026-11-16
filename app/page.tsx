@@ -5,8 +5,8 @@ import HeroField from "./HeroField";
 export default function Home() {
   return (
     <>
+    <HeroField />
     <header className="hero">
-      <HeroField />
       <div className="hero-inner">
         <h1>{profile.name}</h1>
         <p className="muted">{profile.role}</p>
