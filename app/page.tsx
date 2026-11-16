@@ -1,10 +1,13 @@
 import { profile, experience, works } from "@/data";
 import Contributions from "./Contributions";
+import HeroField from "./HeroField";
 
 export default function Home() {
   return (
-    <main>
-      <header>
+    <>
+    <header className="hero">
+      <HeroField />
+      <div className="hero-inner">
         <h1>{profile.name}</h1>
         <p className="muted">{profile.role}</p>
         <nav>
@@ -14,9 +17,11 @@ export default function Home() {
           <a href="#github">GitHub</a>
           <a href="#contact">Contact</a>
         </nav>
-      </header>
+      </div>
+    </header>
+    <main>
 
-      <section id="about">
+      <section id="about" className="first">
         <h2>About me</h2>
         <p>{profile.about}</p>
       </section>
@@ -86,5 +91,6 @@ export default function Home() {
 
       <footer className="muted small">© {new Date().getFullYear()} {profile.name}</footer>
     </main>
+    </>
   );
 }
