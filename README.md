@@ -31,9 +31,7 @@ Developer building websites, tools and Minecraft server software. I like clean, 
   <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
 </p>
 
-## Stack
 
-Java · TypeScript · React · Next.js · PostgreSQL · MySQL
 
 ## Contact
 
