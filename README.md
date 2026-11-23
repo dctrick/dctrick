@@ -23,8 +23,8 @@ Developer building websites, tools and Minecraft server software. I like clean, 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-one-dun-87.vercel.app/api?hide=javascript&username=dctrick&count_private=true&include_all_commits=true&theme=dark&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats-eight-bice.vercel.app?user=dctrick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://dctrick.vercel.app/api/github?card=stats" alt="GitHub stats" />
+  <img src="https://dctrick.vercel.app/api/github?card=streak" alt="GitHub streak" />
 </p>
 
 <p align="center">
