@@ -35,6 +35,6 @@ Java · TypeScript · React · Next.js · PostgreSQL · MySQL
   <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-![GitHub stats](https://github-readme-stats-one-dun-87.vercel.app/api?hide=javascript&username=dctrick&count_private=true&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats-eight-bice.vercel.app?user=dctrick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight-bice.vercel.app?user=dctrick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)]([https://git.io/streak-stats](https://github-readme-streak-stats-eight-bice.vercel.app?user=dctrick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D))
