@@ -65,6 +65,10 @@ export default function Home() {
 
       <section id="github">
         <h2>GitHub</h2>
+        <div className="cards">
+          <img src="/api/github?card=stats" alt="GitHub stats" width={495} height={195} />
+          <img src="/api/github?card=streak" alt="GitHub streak" width={495} height={195} />
+        </div>
         <Contributions user={profile.github} />
       </section>
 

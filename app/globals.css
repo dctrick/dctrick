@@ -99,3 +99,6 @@ section.first { margin-top: 0; border-top: 0; padding-top: 24px; }
 .contact li { display: grid; grid-template-columns: 90px 1fr; }
 
 footer { margin-top: 72px; }
+
+.cards { display: grid; gap: 12px; margin-bottom: 24px; }
+.cards img { display: block; max-width: 100%; height: auto; border-radius: 10px; }

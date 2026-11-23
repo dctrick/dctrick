@@ -20,6 +20,17 @@ Developer building websites, tools and Minecraft server software. I like clean, 
 - **[BriefDesk](https://briefdesk-alpha.vercel.app)**: a front desk for freelancers, with work, services and reviews on one page, client requests as tickets, and invoices paid through their own link.
 - **[Aegis](https://github.com/dctrick/Aegis)**: a security and anticheat plugin for Minecraft, with mod probing, anti-ESP, anti-X-ray, anti-freecam and more.
 
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-one-dun-87.vercel.app/api?hide=javascript&username=dctrick&count_private=true&include_all_commits=true&theme=dark&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats-eight-bice.vercel.app?user=dctrick&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
+</p>
+
 ## Stack
 
 Java · TypeScript · React · Next.js · PostgreSQL · MySQL
@@ -30,7 +41,3 @@ Java · TypeScript · React · Next.js · PostgreSQL · MySQL
 - Discord: `dc_trick`
 
 [![Hire me on BriefDesk](https://briefdesk-alpha.vercel.app/api/badge/dctrick)](https://briefdesk-alpha.vercel.app/u/dctrick)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dctrick/dctrick/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
